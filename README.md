@@ -1,5 +1,5 @@
-# Word_Image_Exporter
-This batch file can export image files from Word document files without any plugins and softwares.
+# Word Image Exporter
+Word Image Exporter can export image files from Word document files without any plugins and softwares.
 
 ## Steps to use
 1. Drag & Drop your file on this batch file.
